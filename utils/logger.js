@@ -1,5 +1,3 @@
-/*
-
 const info = (...params) => {
     console.log(...params)
 }
@@ -11,4 +9,3 @@ const error = (...params) => {
 module.exports = {
     info, error
 }
-*/
